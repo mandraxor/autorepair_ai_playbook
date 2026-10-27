@@ -1,6 +1,12 @@
-# AutoTech AI Playbook | Automotive Repair Industry Demo Showcase
+# AutoFlow AI | Enterprise Automotive Repair AI Playbook
+
+[![Netlify Status](https://img.shields.io/badge/Netlify-Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://wonderful-lebkuchen-52cb9b.netlify.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-mandraxor%2Fautorepair__ai__playbook-181717?style=for-the-badge&logo=github)](https://github.com/mandraxor/autorepair_ai_playbook)
 
 An enterprise-grade, interactive AI demonstration platform engineered for independent automotive repair shops, multi-bay service centers, and collision facilities. Built to showcase agency capabilities in building custom AI systems, automated service workflows, diagnostic accelerators, and customer communication engines for the automotive aftermarket.
+
+- **Live Netlify URL**: [https://wonderful-lebkuchen-52cb9b.netlify.app/](https://wonderful-lebkuchen-52cb9b.netlify.app/)
+- **GitHub Repository**: [https://github.com/mandraxor/autorepair_ai_playbook](https://github.com/mandraxor/autorepair_ai_playbook)
 
 ## 🚀 Key Interactive AI Tools Included
 
